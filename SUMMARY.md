@@ -3,3 +3,7 @@
 - [连城诀](novel02.md)
 - [天龙八部](novel03.md)
 - [射雕英雄传](novel04.md)
+- [白马啸西风](novel05.md)
+- [鹿鼎记](novel06.md)
+- [笑傲江湖](novel07.md)
+- [书剑恩仇录](novel08.md)
